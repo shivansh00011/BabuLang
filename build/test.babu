@@ -1,0 +1,4 @@
+mano x =10;
+mano y = 10;
+mano z = 20;
+likhoBabu(x);

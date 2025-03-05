@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/Users/shivaansharma/Developer/projects/babu_lang/build",
+  "command": "/opt/homebrew/bin/aarch64-apple-darwin23-g++-14   -g -std=gnu++20 -arch arm64 -o CMakeFiles/Babu.dir/src/main.cpp.o -c /Users/shivaansharma/Developer/projects/babu_lang/src/main.cpp",
+  "file": "/Users/shivaansharma/Developer/projects/babu_lang/src/main.cpp",
+  "output": "CMakeFiles/Babu.dir/src/main.cpp.o"
+}
+]
